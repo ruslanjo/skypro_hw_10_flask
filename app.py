@@ -48,5 +48,4 @@ def skills_page(skill):
     return skills_page
 
 
-app.debug = True
 app.run(port=2406)
